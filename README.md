@@ -1,15 +1,15 @@
-# division_algorithim
+# division_algorithm
 A code to learn how optimize c++. Please feel free to help make this run faster!
 I'm just a hobbyist learning c++ I'm sure a real dev could make a much faster program. 
 
 Overview:
   division4.cpp is a simple implementation of division in c++14 as a control.
-  division3.cpp is an algorithim that I wrote to try and beat the compiler!
+  division3.cpp is an algorithm that I wrote to try and beat the compiler!
   Any division3.#.cpp is a newer version of the algorithtim.
   The full benchmarks are located in the /full_benchmark directory.
   
   All files went through g++ and generated assembly so I can learn what the compiler is doing.
-  The files that are compiled this way are just a single cycle of the algorithim.
+  The files that are compiled this way are just a single cycle of the algorithm.
   Single cycle files are located in the /single_cycle directory.
 
   So far the compiler is wining, but I have gotten division3.cpp to be pretty quick.
