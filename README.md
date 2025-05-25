@@ -13,4 +13,6 @@ Overview:
   The variables are assigned at the beginning of the program to make timing easier in the shell
 
   Please do whatever you would like to the program and feel free to fill me in!
-  
+
+  Updates:
+    division3.1.cpp is slightly faster. I'm starting to manipulate the bits more directly
