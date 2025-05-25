@@ -1,6 +1,6 @@
 # division_algorithim
 A code to learn how optimize c++. Please feel free to help make this run faster!
-I'm just a hobbyist learning c++, so I'm sure a real dev could make a much faster program. 
+I'm just a hobbyist learning c++ I'm sure a real dev could make a much faster program. 
 
 Overview:
   division4.cpp is a simple implementation of division in c++14 as a control.
