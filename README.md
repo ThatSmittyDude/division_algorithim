@@ -12,13 +12,13 @@ Overview:
   The files that are compiled this way are just a single cycle of the algorithm.
   Single cycle files are located in the /single_cycle directory.
 
-  So far the compiler is wining, but I have gotten division3.cpp to be pretty quick.
-  Id like to keep the accuracy 0.1 or less away from the correct answer
-
   The variables are assigned at the beginning of the program to make timing easier in the shell
 
   Please do whatever you would like to the program and feel free to fill me in!
 
   Updates:
-    division3.3.cpp is super fast. The compiler for division4.cpp wins most of the time.
-    division3.3.cpp isn't as accurite as I'd like it to be so feel free to help me solve that.
+    division4.1.cpp added as a control using standard library division without floats, integers only.  
+    division3.#.1.cpp added for division without floats, integers only.
+    The division3.6.1.cpp and division3.7.1.cpp files seem to benchmark better than the control!
+    More work is needed for floating points. Slower than control.
+    More work is needed for ARM Cortex. Much Slower than control.
