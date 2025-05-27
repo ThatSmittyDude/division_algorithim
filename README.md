@@ -6,6 +6,7 @@ Overview:
   division4.cpp is a simple implementation of division in c++14 as a control.
   division3.cpp is an algorithm that I wrote to try and beat the compiler!
   Any division3.#.cpp is a newer version of the algorithtm.
+  
   The full benchmarks are located in the /full_benchmark directory.
   
   All single_cycle files went through g++ and generated assembly so I can learn what the compiler is doing.
