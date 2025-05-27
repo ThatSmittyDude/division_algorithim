@@ -17,8 +17,13 @@ Overview:
   Please do whatever you would like to the program and feel free to fill me in!
 
   Updates:
-    division4.1.cpp added as a control using standard library division without floats, integers only.  
-    division3.#.1.cpp added for division without floats, integers only.
-    The division3.6.1.cpp and division3.7.1.cpp files seem to benchmark better than the control!
-    More work is needed for floating points. Slower than control.
-    More work is needed for ARM Cortex. Much Slower than control.
+
+division4.1.cpp added as a control using standard library division without floats, integers only.  
+
+division3.#.1.cpp added for division without floats, integers only.
+
+The division3.6.1.cpp and division3.7.1.cpp files seem to benchmark better than the control!
+
+More work is needed for floating points. Slower than control.
+
+More work is needed for ARM Cortex. Much Slower than control.
