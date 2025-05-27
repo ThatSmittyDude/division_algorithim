@@ -8,7 +8,7 @@ Overview:
   Any division3.#.cpp is a newer version of the algorithtm.
   The full benchmarks are located in the /full_benchmark directory.
   
-  All files went through g++ and generated assembly so I can learn what the compiler is doing.
+  All single_cycle files went through g++ and generated assembly so I can learn what the compiler is doing.
   The files that are compiled this way are just a single cycle of the algorithm.
   Single cycle files are located in the /single_cycle directory.
 
